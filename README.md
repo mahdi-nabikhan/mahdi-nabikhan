@@ -17,5 +17,6 @@ As a skilled Django developer, I specialize in building robust, scalable web app
 
 ---
 
+[![](https://visitcount.itsvg.in/api?id=mahdi-nabikhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
