@@ -3,7 +3,11 @@ As a skilled Django developer, I specialize in building robust, scalable web app
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mahdi_nabi_7?igsh=MWgwNTVjb2w0MjdhZQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahdi.nabikhan@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahdi_nabi_7) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-nabi) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahdi.nabikhan@gmail.com) 
+[![Phone](https://img.shields.io/badge/Phone-%2B989386819301-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+989386819301)
+
 
 
 # 💻 Tech Stack:
