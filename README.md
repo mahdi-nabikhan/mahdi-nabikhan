@@ -38,8 +38,12 @@ As a skilled Django developer, I specialize in building robust, scalable web app
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mahdi-nabikhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repositories
+- [AdvanceShop](https://github.com/mahdi-nabikhan/AdvanceShop) – Advanced e-commerce shop built with Django and DRF, including shopping cart, payment, and product management.
+- [Restapiblog](https://github.com/mahdi-nabikhan/Restapiblog) – Blog project with REST APIs, JWT authentication, and post management.
+- [SmartShop](https://github.com/mahdi-nabikhan/smartshop) – Smart online shop project with shopping cart and admin panel.
+- [Group-1 Project Week 23 Black Cafe](https://github.com/mahdi-nabikhan/group-1-project-week-23-black-cafe) – Group project for a cafe website with full frontend and backend implementation.
+
 
 ---
 # 📊 GitHub Stats:
