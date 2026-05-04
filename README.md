@@ -23,7 +23,7 @@ As a skilled Django developer, I specialize in building robust, scalable web app
 ![AJAX](https://img.shields.io/badge/AJAX-00ADD8?style=for-the-badge&logo=ajax&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Django Rest Framework](https://img.shields.io/badge/Django_Rest_Framework-A30000?style=for-the-badge&logo=django&logoColor=white) 
+![Django Rest Framework](https://img.shields.io/badge/Django_Rest_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django Axes](https://img.shields.io/badge/Django_Axes-8B0000?style=for-the-badge&logo=django&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) 
