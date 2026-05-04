@@ -8,8 +8,7 @@ As a skilled Django developer, I specialize in building robust, scalable web app
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahdi.nabikhan@gmail.com) 
 [![Phone](https://img.shields.io/badge/Phone-%2B989386819301-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+989386819301)
 
-
-💻 Tech Stack:
+##💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -23,7 +22,7 @@ As a skilled Django developer, I specialize in building robust, scalable web app
 ![AJAX](https://img.shields.io/badge/AJAX-00ADD8?style=for-the-badge&logo=ajax&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![Django Rest Framework](https://img.shields.io/badge/Django_Rest_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django Rest Framework](https://img.shields.io/badge/Django_Rest_Framework-00C853?style=for-the-badge&logo=django&logoColor=white) 
 ![Django Axes](https://img.shields.io/badge/Django_Axes-8B0000?style=for-the-badge&logo=django&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) 
@@ -42,9 +41,6 @@ As a skilled Django developer, I specialize in building robust, scalable web app
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-
 ### 🔝 Top Contributed Repositories
 - [AdvanceShop](https://github.com/mahdi-nabikhan/AdvanceShop) – Advanced e-commerce shop built with Django and DRF, including shopping cart, payment, and product management.
 - [Restapiblog](https://github.com/mahdi-nabikhan/Restapiblog) – Blog project with REST APIs, JWT authentication, and post management.
