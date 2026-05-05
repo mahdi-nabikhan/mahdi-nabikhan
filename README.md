@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a skilled Django developer, I specialize in building robust, scalable web applications with a focus on clean code and efficient solutions. I excel in collaborative team environments, delivering high-quality projects using modern technologies and best practices. By continuously exploring advancements in web development and frameworks, I ensure innovative and up-to-date solutions. Eager to contribute my technical proficiency and problem-solving skills to create impactful solutions.
+As a skilled Full-stack  developer, I specialize in building robust, scalable web applications with a focus on clean code and efficient solutions. I excel in collaborative team environments, delivering high-quality projects using modern technologies and best practices. By continuously exploring advancements in web development and frameworks, I ensure innovative and up-to-date solutions. Eager to contribute my technical proficiency and problem-solving skills to create impactful solutions.
 
 
 ## 🌐 Socials:
