@@ -8,7 +8,7 @@ As a skilled Full-stack  developer, I specialize in building robust, scalable we
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahdi.nabikhan@gmail.com) 
 [![Phone](https://img.shields.io/badge/Phone-%2B989386819301-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+989386819301)
 
-#💻 Tech Stack:
+## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -42,8 +42,8 @@ As a skilled Full-stack  developer, I specialize in building robust, scalable we
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ### 🔝 Top Contributed Repositories
-- [AdvanceShop](https://github.com/mahdi-nabikhan/AdvanceShop) – Advanced e-commerce shop built with Django and DRF, including shopping cart, payment, and product management.
-- [Restapiblog](https://github.com/mahdi-nabikhan/Restapiblog) – Blog project with REST APIs, JWT authentication, and post management.
+- [MultiShop](https://github.com/mahdi-nabikhan/AdvanceShop) – Django E‑commerce Backend An online shop backend built with Django REST Framework, featuring JWT authentication, Elasticsearch-powered search, API filtering, request throttling, and brute‑force protection (Django Axes). The current frontend uses Django templates to consume APIs, but the project is designed to be replaced by a React frontend in the future
+- [Restapiblog](https://github.com/mahdi-nabikhan/Restapiblog) – Blog Project with Django and Django REST Framework A blog project built using Django and Django REST Framework, featuring authentication, post management, and an API for interacting with the data. Let me know if you’d like to refine or expand it!
 - [SmartShop](https://github.com/mahdi-nabikhan/smartshop) – Smart online shop project with shopping cart and admin panel.
 - [Group-1 Project Week 23 Black Cafe](https://github.com/mahdi-nabikhan/group-1-project-week-23-black-cafe) – Group project for a cafe website with full frontend and backend implementation.
 
