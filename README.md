@@ -8,7 +8,7 @@ As a skilled Full-stack  developer, I specialize in building robust, scalable we
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahdi.nabikhan@gmail.com) 
 [![Phone](https://img.shields.io/badge/Phone-%2B989386819301-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+989386819301)
 
-##💻 Tech Stack:
+#💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
