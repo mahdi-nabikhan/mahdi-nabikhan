@@ -1,6 +1,6 @@
-# 💫 About Me:
-As a skilled Full-stack  developer, I specialize in building robust, scalable web applications with a focus on clean code and efficient solutions. I excel in collaborative team environments, delivering high-quality projects using modern technologies and best practices. By continuously exploring advancements in web development and frameworks, I ensure innovative and up-to-date solutions. Eager to contribute my technical proficiency and problem-solving skills to create impactful solutions.
 
+# 💫 About Me:
+Full-stack web developer with expertise in Django (DRF) and React ecosystem. I build high-performance web applications with robust REST APIs, real-time search (Elasticsearch), caching strategies (Redis), and modern authentication systems. From database design to frontend component architecture, I focus on clean, maintainable code and seamless user experiences. I believe in agile collaboration and continuous learning to deliver solutions that truly make an impact.
 
 
 ## 💻 Tech Stack:
