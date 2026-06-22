@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Full-stack web developer with expertise in Django (DRF) and React ecosystem. I build high-performance web applications with robust REST APIs, real-time search (Elasticsearch), caching strategies (Redis), and modern authentication systems. From database design to frontend component architecture, I focus on clean, maintainable code and seamless user experiences. I believe in agile collaboration and continuous learning to deliver solutions that truly make an impact.
+Full-stack web developer specializing in Django (DRF), FastAPI, and the React ecosystem. I build scalable web applications with secure REST APIs, caching strategies using Redis, asynchronous task processing with Celery, full-text search powered by Elasticsearch, and observability tools including Kibana. On the frontend, I work with React, React Query, and modern JavaScript/TypeScript patterns to create responsive and maintainable user interfaces. Passionate about clean architecture, performance optimization, and continuous learning, I enjoy building products that combine robust backend systems with seamless user experiences.
 
 
 ## 💻 Tech Stack:
@@ -40,7 +40,11 @@ Full-stack web developer with expertise in Django (DRF) and React ecosystem. I b
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ### 🔝 Top Contributed Repositories
 - [MultiShop](https://github.com/mahdi-nabikhan/AdvanceShop) – Django E‑commerce Backend An online shop backend built with Django REST Framework, featuring JWT authentication, Elasticsearch-powered search, API filtering, request throttling, and brute‑force protection (Django Axes). The current frontend uses Django templates to consume APIs, but the project is designed to be replaced by a React frontend in the future
 - [Restapiblog](https://github.com/mahdi-nabikhan/Restapiblog) – Blog Project with Django and Django REST Framework A blog project built using Django and Django REST Framework, featuring authentication, post management, and an API for interacting with the data. Let me know if you'd like to refine or expand it!
