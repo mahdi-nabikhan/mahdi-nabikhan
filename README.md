@@ -43,8 +43,9 @@ Full-stack web developer specializing in Django (DRF), FastAPI, and the React ec
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-### 🔝 Top Contributed Repositories
-- [MultiShop](https://github.com/mahdi-nabikhan/AdvanceShop) – Django E‑commerce Backend An online shop backend built with Django REST Framework, featuring JWT authentication, Elasticsearch-powered search, API filtering, request throttling, and brute‑force protection (Django Axes). The current frontend uses Django templates to consume APIs, but the project is designed to be replaced by a React frontend in the future
-- [Restapiblog](https://github.com/mahdi-nabikhan/Restapiblog) – Blog Project with Django and Django REST Framework A blog project built using Django and Django REST Framework, featuring authentication, post management, and an API for interacting with the data. Let me know if you'd like to refine or expand it!
+### 🔝 Featured Projects
+* [MultiShop](https://github.com/mahdi-nabikhan/AdvanceShop) – Advanced E-Commerce platform built with Django REST Framework, featuring JWT authentication, Elasticsearch search, Redis caching, Celery background tasks, request throttling, Django Axes protection, Dockerized deployment, and scalable RESTful APIs.
+* [Restapiblog](https://github.com/mahdi-nabikhan/Restapiblog) – Full-Stack Blog application built with Django REST Framework and React, featuring JWT authentication, comments & replies, Elasticsearch search, Redis caching, Celery tasks, React Query integration, Dockerized environment, and ELK Stack (Elasticsearch, Logstash, Kibana) monitoring.
+
 - [SmartShop](https://github.com/mahdi-nabikhan/smartshop) – Smart online shop project with shopping cart and admin panel.
 - [Group-1 Project Week 23 Black Cafe](https://github.com/mahdi-nabikhan/group-1-project-week-23-black-cafe) – Group project for a cafe website with full frontend and backend implementation.
