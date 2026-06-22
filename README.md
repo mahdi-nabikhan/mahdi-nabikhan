@@ -44,7 +44,7 @@ Full-stack web developer specializing in Django (DRF), FastAPI, and the React ec
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ### 🔝 Featured Projects
-* [MultiShop](https://github.com/mahdi-nabikhan/AdvanceShop) – Advanced E-Commerce platform built with Django REST Framework, featuring JWT authentication, Elasticsearch search, Redis caching, Celery background tasks, request throttling, Django Axes protection, Dockerized deployment, and scalable RESTful APIs.
+* [MultiShop](https://github.com/mahdi-nabikhan/AdvanceShop) – Advanced E-Commerce platform built with Django REST Framework, featuring JWT authentication, Elasticsearch search, Redis caching, Celery background tasks, request throttling, Django Axes protection, Dockerized deployment, and scalable RESTful APIs. Frontend planned for React/Next.js with state management using Redux Toolkit and data fetching via React Query.
 * [Restapiblog](https://github.com/mahdi-nabikhan/Restapiblog) – Full-Stack Blog application built with Django REST Framework and React, featuring JWT authentication, comments & replies, Elasticsearch search, Redis caching, Celery tasks, React Query integration, Dockerized environment, and ELK Stack (Elasticsearch, Logstash, Kibana) monitoring.
 
 - [SmartShop](https://github.com/mahdi-nabikhan/smartshop) – Smart online shop project with shopping cart and admin panel.
