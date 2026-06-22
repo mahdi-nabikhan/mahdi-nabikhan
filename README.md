@@ -41,9 +41,7 @@ Full-stack web developer specializing in Django (DRF), FastAPI, and the React ec
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ### 🔝 Top Contributed Repositories
 - [MultiShop](https://github.com/mahdi-nabikhan/AdvanceShop) – Django E‑commerce Backend An online shop backend built with Django REST Framework, featuring JWT authentication, Elasticsearch-powered search, API filtering, request throttling, and brute‑force protection (Django Axes). The current frontend uses Django templates to consume APIs, but the project is designed to be replaced by a React frontend in the future
